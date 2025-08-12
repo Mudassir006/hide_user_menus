@@ -4,6 +4,7 @@
     'summary': 'Hide specific menu items for selected users',
     'author': 'Mudassir Amin',
     'category': 'Tools',
+    'license': 'LGPL-3',
     'website': 'mailto:mudassir.odoo@gmail.com',
     'depends': ['base'],
     'data': [
